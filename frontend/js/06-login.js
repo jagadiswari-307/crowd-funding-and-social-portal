@@ -49,7 +49,7 @@ loginForm.addEventListener("submit", async(e)=>{
             );
 
 
-            window.location.href="01-index.html";
+            window.location.href="04-create.html";
 
         }
 
